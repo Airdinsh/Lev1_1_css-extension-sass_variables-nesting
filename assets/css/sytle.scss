@@ -2,9 +2,15 @@
 @import "variables";
 
 
-.container  {
+.container ul {
     display: flex;
     justify-content: space-evenly;
+    padding-inline-start: 0;
+
+
+    li {
+    list-style-type: none;
+}
 
     .la-twitter {
         color: $color1;

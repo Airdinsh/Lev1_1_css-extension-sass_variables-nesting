@@ -1,57 +1,63 @@
-.container {
+.container ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
+  -webkit-padding-start: 0;
+          padding-inline-start: 0;
 }
 
-.container .la-twitter {
+.container ul li {
+  list-style-type: none;
+}
+
+.container ul .la-twitter {
   color: #286375;
 }
 
-.container .la-behance {
+.container ul .la-behance {
   color: #003cff;
 }
 
-.container .la-facebook {
+.container ul .la-facebook {
   color: #1a4079;
 }
 
-.container .la-vimeo {
+.container ul .la-vimeo {
   color: #00d9ff;
 }
 
-.container .la-napchat-square {
+.container ul .la-napchat-square {
   color: #f5ff65;
 }
 
-.container .la-airbnb {
+.container ul .la-airbnb {
   color: #ff7b00;
 }
 
-.container .la-amazon {
+.container ul .la-amazon {
   color: #fc5640;
 }
 
-.container .la-android {
+.container ul .la-android {
   color: #73da59;
 }
 
-.container .la-stack-overflow {
+.container ul .la-stack-overflow {
   color: #2e5e6d;
 }
 
-.container .la-ubuntu {
+.container ul .la-ubuntu {
   color: #254c79;
 }
 
-.container .la-github {
+.container ul .la-github {
   color: #335070;
 }
 
-.container .la-js-square {
+.container ul .la-js-square {
   color: #ffd900;
 }
 /*# sourceMappingURL=sytle.css.map */
