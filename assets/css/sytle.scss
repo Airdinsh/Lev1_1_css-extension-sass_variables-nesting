@@ -7,15 +7,13 @@
     justify-content: space-evenly;
     padding-inline-start: 0;
 
-
     li {
     list-style-type: none;
-}
+    }
 
     .la-twitter {
         color: $color1;
     }
-
     .la-behance {
         color: $color2;
     }
@@ -49,7 +47,4 @@
     .la-js-square {
         color: $color12;
     }
-
-
-    
 }
