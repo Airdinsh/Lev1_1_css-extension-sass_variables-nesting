@@ -1,0 +1,57 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.container .la-twitter {
+  color: #286375;
+}
+
+.container .la-behance {
+  color: #003cff;
+}
+
+.container .la-facebook {
+  color: #1a4079;
+}
+
+.container .la-vimeo {
+  color: #00d9ff;
+}
+
+.container .la-napchat-square {
+  color: #f5ff65;
+}
+
+.container .la-airbnb {
+  color: #ff7b00;
+}
+
+.container .la-amazon {
+  color: #fc5640;
+}
+
+.container .la-android {
+  color: #73da59;
+}
+
+.container .la-stack-overflow {
+  color: #2e5e6d;
+}
+
+.container .la-ubuntu {
+  color: #254c79;
+}
+
+.container .la-github {
+  color: #335070;
+}
+
+.container .la-js-square {
+  color: #ffd900;
+}
+/*# sourceMappingURL=sytle.css.map */

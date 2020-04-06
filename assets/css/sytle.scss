@@ -1,0 +1,49 @@
+
+@import "variables";
+
+
+.container  {
+    display: flex;
+    justify-content: space-evenly;
+
+    .la-twitter {
+        color: $color1;
+    }
+
+    .la-behance {
+        color: $color2;
+    }
+    .la-facebook {
+        color: $color3;
+    }
+    .la-vimeo {
+        color: $color4;
+    }
+    .la-napchat-square {
+        color: $color5;
+    }
+    .la-airbnb {
+        color: $color6;
+    }
+    .la-amazon {
+        color: $color7;
+    }
+    .la-android {
+        color: $color8;
+    }
+    .la-stack-overflow {
+        color: $color9;
+    }
+    .la-ubuntu {
+        color: $color10;
+    }
+    .la-github {
+        color: $color11;
+    }
+    .la-js-square {
+        color: $color12;
+    }
+
+
+    
+}
