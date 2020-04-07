@@ -14,50 +14,52 @@
 }
 
 .container ul .la-twitter {
-  color: #286375;
+  color: #1da1f2;
 }
 
 .container ul .la-behance {
-  color: #003cff;
+  color: #1769ff;
 }
 
 .container ul .la-facebook {
-  color: #1a4079;
+  color: #3b5998;
 }
 
 .container ul .la-vimeo {
-  color: #00d9ff;
+  color: #1ab7ea;
 }
 
 .container ul .la-napchat-square {
-  color: #f5ff65;
+  color: #fffc00;
 }
 
 .container ul .la-airbnb {
-  color: #ff7b00;
+  color: #fd5c63;
 }
 
 .container ul .la-amazon {
-  color: #fc5640;
+  color: #ff9900;
 }
 
 .container ul .la-android {
-  color: #73da59;
+  color: #a4c639;
 }
 
 .container ul .la-stack-overflow {
-  color: #2e5e6d;
+  color: #f48024;
+  /*         linear-gradient: (45deg, $color9, $color13);
+ */
 }
 
 .container ul .la-ubuntu {
-  color: #254c79;
+  color: #dd4814;
 }
 
 .container ul .la-github {
-  color: #335070;
+  color: #4078c0;
 }
 
 .container ul .la-js-square {
-  color: #ffd900;
+  color: #f7df1e;
 }
 /*# sourceMappingURL=sytle.css.map */
